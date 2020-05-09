@@ -9,7 +9,7 @@ The goal of this project is to building some milestone Deep Convolutional Neural
 
 There are two dataset being used for that experiment. [MNIST](https://keras.io/api/datasets/mnist/#load_data-function) and [CIFAR10](https://keras.io/api/datasets/cifar10/#load_data-function)
 
- 1) MNIST is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images. More info can be found at the [MNIST homepage] (http://yann.lecun.com/exdb/mnist/).
+ 1) MNIST is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images. More info can be found at the [MNIST homepage](http://yann.lecun.com/exdb/mnist)
  2) CIFAR10 is a dataset of 50,000 32x32 color training images and 10,000 test images, labeled over 10 categories. 
 
 
