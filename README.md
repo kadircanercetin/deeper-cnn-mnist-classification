@@ -4,8 +4,7 @@ The goal of this project is to building some milestone Deep Convolutional Neural
 
 ## Dataset
 
-<img src="/imgs/mnist.png" width="400" alt="MNIST">
-<img src="/imgs/cifar10.png" width="400" alt="CIFAR10">
+<img src="/imgs/mnist.png" width="400" alt="MNIST"><img src="/imgs/cifar10.png" width="400" alt="CIFAR10">
 
 There are two dataset being used for that experiment. [MNIST](https://keras.io/api/datasets/mnist/#load_data-function) and [CIFAR10](https://keras.io/api/datasets/cifar10/#load_data-function)
 
